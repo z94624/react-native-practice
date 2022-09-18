@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.crystal.android.deeplink",
+    "sha256_cert_fingerprints":
+    ["C4:B4:9C:48:44:BA:E0:94:4A:F1:55:C9:7C:0B:35:E6:26:0B:50:02:AE:24:0D:9F:64:EE:A3:86:24:2A:7B:D1"]
+  }
+}]
